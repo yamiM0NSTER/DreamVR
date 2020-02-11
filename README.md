@@ -1,3 +1,4 @@
+![alt text](https://i.imgur.com/xqvekda.png "Dream Client Logo")
 # DreamVR
 
 DreamVR is modification for game VRChat. It is created with purpose of improving user experience immensely without impacting negatively other players. Main focus of Dream is to let you enjoy the game while fitting as if it was part of the game itself.
