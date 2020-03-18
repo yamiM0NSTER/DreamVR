@@ -11,7 +11,7 @@ Setup guide can be found [here](https://github.com/yamiM0NSTER/DreamVR/wiki/Setu
 
 # Manual (Outdated)
 
-Manual is located [here](https://paper.dropbox.com/published/Dream-Client-manual-v0.1--Aid3WLbfGkCshEHwYC5hP4AiBg-SR6DaGTyCXLCATmyrIzS2ec)
+Manual is located [here](https://github.com/yamiM0NSTER/DreamVR/wiki/Manual)
 
 # How to join
 
