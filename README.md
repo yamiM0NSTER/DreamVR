@@ -7,7 +7,7 @@ DreamVR is modification for game VRChat. It is created with purpose of improving
 
 # Installation Guide
 
-Setup guide can be found [here](https://paper.dropbox.com/published/Dream-Client-Setup-Guide--Ai6_zFiRO47XItjZ9nfHC35KBg-0kyFPpqCqhIgbjsziC7TwH7)
+Setup guide can be found [here](https://github.com/yamiM0NSTER/DreamVR/wiki/Setup-guide)
 
 # Manual (Outdated)
 
